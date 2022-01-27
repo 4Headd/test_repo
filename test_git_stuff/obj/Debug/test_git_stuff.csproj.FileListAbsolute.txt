@@ -1,0 +1,7 @@
+C:\test_repo_check\test_repo\test_git_stuff\test_git_stuff\bin\Debug\test_git_stuff.exe.config
+C:\test_repo_check\test_repo\test_git_stuff\test_git_stuff\bin\Debug\test_git_stuff.exe
+C:\test_repo_check\test_repo\test_git_stuff\test_git_stuff\bin\Debug\test_git_stuff.pdb
+C:\test_repo_check\test_repo\test_git_stuff\test_git_stuff\obj\Debug\test_git_stuff.csproj.AssemblyReference.cache
+C:\test_repo_check\test_repo\test_git_stuff\test_git_stuff\obj\Debug\test_git_stuff.csproj.CoreCompileInputs.cache
+C:\test_repo_check\test_repo\test_git_stuff\test_git_stuff\obj\Debug\test_git_stuff.exe
+C:\test_repo_check\test_repo\test_git_stuff\test_git_stuff\obj\Debug\test_git_stuff.pdb
