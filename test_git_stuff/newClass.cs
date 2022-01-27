@@ -8,5 +8,6 @@ namespace test_git_stuff
 {
     class newClass
     {
+        public int a = 3;
     }
 }
